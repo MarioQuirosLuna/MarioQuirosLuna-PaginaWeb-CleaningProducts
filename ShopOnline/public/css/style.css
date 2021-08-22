@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Serif', serif;
+}
+img[alt="www.000webhost.com"]{
+    display: none;
+}
+.cont{
+    background: rgba(66, 58, 219, 0.8);
+    border-radius: 0.25em;
+}
+.headerColor{
+    background: rgb(91, 85, 204);
+    border-radius: 0.25em;
+}
+.footerColor{
+    color: #fff;
+    background: rgb(91, 85, 204);
+    border-radius: 0.25em;
+}
+
+.standardPurple{
+    color: #fff;
+    background:rgb(37, 29, 182);
+    background-color:rgb(37, 29, 182);
+    border-color:rgb(37, 29, 182);
+}
+
+.btnPurple{
+    color: #fff;
+    background: #5A6DFF;
+    background-color: #5A6DFF;
+    border-color: #5A6DFF;
+}
+.btnPurple:hover, .btnPurple:focus{
+    color: #fff;
+    background: #2D3CB3;
+    background-color: #2D3CB3;
+    border-color: #2D3CB3;
+}
+a{
+    color: #fff;
+}
+a:hover{
+    color: #a6b0ff;
+}
+.contB{
+    background: rgb(128, 117, 217,0.8);
+}
+
+.formUpdateProduct{
+    display: none;
+}
+
+.containerHeight{
+    min-height: 80vh;
+}
+.containerHeightLogin{
+    min-height: 100vh;
+}
+
+#body{
+    min-height: 100vh;
+    background: linear-gradient(to bottom,
+    #5a6dff4b,
+    #2d3db34b,
+    #251db63f
+    ),url(../assets/icons/fondo.jpg);
+    background-position: center; 
+    background-size: cover; 
+}
+
+#menuCategoriesBtn{
+    color: #fff;
+    background:rgba(91, 85, 204, 0.8);
+    border-radius: 0.5em;
+}

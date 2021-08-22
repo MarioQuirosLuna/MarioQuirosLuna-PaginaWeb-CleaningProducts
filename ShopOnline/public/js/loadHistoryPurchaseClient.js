@@ -1,0 +1,4 @@
+$(function() {
+    getHistoryPurchaseClient();
+    getCantCartShop();
+});
