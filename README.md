@@ -2,7 +2,9 @@
 Segundo proyecto del curso Lenguajes para aplicaciones comerciales de la carrera de Informatica Empresarial de la UCR.
 
 API php.
+
 Base de datos MySQL.
+
 PaginaWeb Html, Css, Javascript y php.
 
 Especificaciones: [Proyecto 2 Lenguajes (2021).pdf](https://github.com/MarioQuirosLuna/MarioQuirosLuna-PaginaWeb-CleaningProducts/files/7026372/Proyecto.2.Lenguajes.2021.pdf)
