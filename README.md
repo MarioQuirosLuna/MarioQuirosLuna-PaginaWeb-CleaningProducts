@@ -11,15 +11,14 @@ Especificaciones: [Proyecto 2 Lenguajes (2021).pdf](https://github.com/MarioQuir
 
 Login
 
-![Login1](https://user-images.githubusercontent.com/37676736/130337701-9b05b774-84e1-465b-a114-e856e1698991.png)
+![Desktop Cleaning](https://user-images.githubusercontent.com/37676736/143906820-1790341b-1e20-4078-9cb3-7cd500b8e1e9.jpg)
 
-
-![Login2](https://user-images.githubusercontent.com/37676736/130337703-005f03e4-36a2-4a55-90ef-e2922ee54f7c.png)
+![Ipad Cleaning](https://user-images.githubusercontent.com/37676736/143906842-7aede4eb-7351-4e51-9ead-c5f6cdf937ad.png)
 
 Modulo admin
 
-![Admin](https://user-images.githubusercontent.com/37676736/130337704-23818692-fea8-44ec-86fd-c4126ac3d852.png)
+![Desktop Cleaning Admin](https://user-images.githubusercontent.com/37676736/143906865-cb65fe6f-c499-43dc-ad8f-63bd2e8898e8.jpg)
 
 Modulo Cliente
 
-![Client](https://user-images.githubusercontent.com/37676736/130337706-8976e948-5cd1-415b-a59b-a4102a702172.png)
+![Desktop Cleaning Client](https://user-images.githubusercontent.com/37676736/143906889-3b735cec-026f-4841-b028-c9ed775efd5f.jpg)
